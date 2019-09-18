@@ -1,1 +1,1 @@
-##Simple blog on laravel 5.5
+##CMS on laravel 5.5
