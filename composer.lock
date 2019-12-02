@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "2018ddbcce8244c1277fdb9bde670c81",
@@ -61,7 +61,7 @@
                 {
                     "name": "Florian Eckerstorfer",
                     "email": "florian@eckerstorfer.co",
-                    "Homepage": "https://florian.ec"
+                    "homepage": "https://florian.ec"
                 }
             ],
             "description": "Converts a string into a slug.",
@@ -122,6 +122,7 @@
                 }
             ],
             "description": "Easy creation of slugs for your Eloquent models in Laravel 5.",
+            "homepage": "https://github.com/cviebrock/eloquent-sluggable",
             "keywords": [
                 "eloquent",
                 "eloquent-sluggable",
@@ -233,6 +234,7 @@
                 }
             ],
             "description": "Caching library offering an object-oriented API for many cache backends",
+            "homepage": "https://www.doctrine-project.org",
             "keywords": [
                 "cache",
                 "caching"
@@ -309,6 +311,7 @@
                 }
             ],
             "description": "Database Abstraction Layer",
+            "homepage": "http://www.doctrine-project.org",
             "keywords": [
                 "database",
                 "dbal",
@@ -383,6 +386,7 @@
                 }
             ],
             "description": "Doctrine Event Manager component",
+            "homepage": "https://www.doctrine-project.org/projects/event-manager.html",
             "keywords": [
                 "event",
                 "eventdispatcher",
@@ -448,6 +452,7 @@
                 }
             ],
             "description": "Common String Manipulations with regard to casing and singular/plural rules.",
+            "homepage": "http://www.doctrine-project.org",
             "keywords": [
                 "inflection",
                 "pluralize",
@@ -503,6 +508,7 @@
                 }
             ],
             "description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.",
+            "homepage": "http://www.doctrine-project.org",
             "keywords": [
                 "lexer",
                 "parser"
@@ -556,6 +562,7 @@
                 }
             ],
             "description": "A library for validating emails against several RFCs",
+            "homepage": "https://github.com/egulias/EmailValidator",
             "keywords": [
                 "email",
                 "emailvalidation",
@@ -600,10 +607,11 @@
                 {
                     "name": "Emanuil Rusev",
                     "email": "hello@erusev.com",
-                    "Homepage": "http://erusev.com"
+                    "homepage": "http://erusev.com"
                 }
             ],
             "description": "Parser for Markdown.",
+            "homepage": "http://parsedown.org",
             "keywords": [
                 "markdown",
                 "parser"
@@ -932,7 +940,7 @@
                 {
                     "name": "Jakub Onderka",
                     "email": "acci@acci.cz",
-                    "Homepage": "http://www.acci.cz/"
+                    "homepage": "http://www.acci.cz/"
                 }
             ],
             "description": "Highlight PHP code in terminal",
@@ -1065,6 +1073,7 @@
                 }
             ],
             "description": "The Laravel Framework.",
+            "homepage": "https://laravel.com",
             "keywords": [
                 "framework",
                 "laravel"
@@ -1284,10 +1293,11 @@
                 {
                     "name": "Jordi Boggiano",
                     "email": "j.boggiano@seld.be",
-                    "Homepage": "http://seld.be"
+                    "homepage": "http://seld.be"
                 }
             ],
             "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+            "homepage": "http://github.com/Seldaek/monolog",
             "keywords": [
                 "log",
                 "logging",
@@ -1329,7 +1339,7 @@
                 {
                     "name": "Michael Dowling",
                     "email": "mtdowling@gmail.com",
-                    "Homepage": "https://github.com/mtdowling"
+                    "homepage": "https://github.com/mtdowling"
                 }
             ],
             "description": "CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due",
@@ -1382,10 +1392,11 @@
                 {
                     "name": "Brian Nesbitt",
                     "email": "brian@nesbot.com",
-                    "Homepage": "http://nesbot.com"
+                    "homepage": "http://nesbot.com"
                 }
             ],
             "description": "A simple API extension for DateTime.",
+            "homepage": "http://carbon.nesbot.com",
             "keywords": [
                 "date",
                 "datetime",
@@ -1477,7 +1488,7 @@
                 {
                     "name": "Paragon Initiative Enterprises",
                     "email": "security@paragonie.com",
-                    "Homepage": "https://paragonie.com"
+                    "homepage": "https://paragonie.com"
                 }
             ],
             "description": "PHP 5.x polyfill for random_bytes() and random_int() from PHP 7",
@@ -1524,10 +1535,11 @@
             "authors": [
                 {
                     "name": "PHP-FIG",
-                    "Homepage": "http://www.php-fig.org/"
+                    "homepage": "http://www.php-fig.org/"
                 }
             ],
             "description": "Common Container Interface (PHP FIG PSR-11)",
+            "homepage": "https://github.com/php-fig/container",
             "keywords": [
                 "PSR-11",
                 "container",
@@ -1622,10 +1634,11 @@
             "authors": [
                 {
                     "name": "PHP-FIG",
-                    "Homepage": "http://www.php-fig.org/"
+                    "homepage": "http://www.php-fig.org/"
                 }
             ],
             "description": "Common interface for logging libraries",
+            "homepage": "https://github.com/php-fig/log",
             "keywords": [
                 "log",
                 "psr",
@@ -1668,7 +1681,7 @@
             "authors": [
                 {
                     "name": "PHP-FIG",
-                    "Homepage": "http://www.php-fig.org/"
+                    "homepage": "http://www.php-fig.org/"
                 }
             ],
             "description": "Common interfaces for simple caching",
@@ -1742,10 +1755,11 @@
                 {
                     "name": "Justin Hileman",
                     "email": "justin@justinhileman.info",
-                    "Homepage": "http://justinhileman.com"
+                    "homepage": "http://justinhileman.com"
                 }
             ],
             "description": "An interactive shell for modern PHP.",
+            "homepage": "http://psysh.org",
             "keywords": [
                 "REPL",
                 "console",
@@ -1864,10 +1878,11 @@
                 {
                     "name": "Ben Ramsey",
                     "email": "ben@benramsey.com",
-                    "Homepage": "https://benramsey.com"
+                    "homepage": "https://benramsey.com"
                 }
             ],
             "description": "Formerly rhumsaa/uuid. A PHP 5.4+ library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).",
+            "homepage": "https://github.com/ramsey/uuid",
             "keywords": [
                 "guid",
                 "identifier",
@@ -1926,6 +1941,7 @@
                 }
             ],
             "description": "Swiftmailer, free feature-rich PHP mailer",
+            "homepage": "https://swiftmailer.symfony.com",
             "keywords": [
                 "email",
                 "mail",
@@ -1995,10 +2011,11 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony Console Component",
+            "homepage": "https://symfony.com",
             "time": "2018-10-02T16:33:53+00:00"
         },
         {
@@ -2047,10 +2064,11 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony CssSelector Component",
+            "homepage": "https://symfony.com",
             "time": "2018-10-02T16:33:53+00:00"
         },
         {
@@ -2102,10 +2120,11 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony Debug Component",
+            "homepage": "https://symfony.com",
             "time": "2018-10-02T16:33:53+00:00"
         },
         {
@@ -2164,10 +2183,11 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony EventDispatcher Component",
+            "homepage": "https://symfony.com",
             "time": "2018-07-26T09:06:28+00:00"
         },
         {
@@ -2212,24 +2232,25 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony Finder Component",
+            "homepage": "https://symfony.com",
             "time": "2018-10-03T08:46:40+00:00"
         },
         {
             "name": "symfony/http-foundation",
-            "version": "v3.4.17",
+            "version": "v3.4.36",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-foundation.git",
-                "reference": "3a4498236ade473c52b92d509303e5fd1b211ab1"
+                "reference": "d2d0cfe8e319d9df44c4cca570710fcf221d4593"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-foundation/zipball/3a4498236ade473c52b92d509303e5fd1b211ab1",
-                "reference": "3a4498236ade473c52b92d509303e5fd1b211ab1",
+                "url": "https://api.github.com/repos/symfony/http-foundation/zipball/d2d0cfe8e319d9df44c4cca570710fcf221d4593",
+                "reference": "d2d0cfe8e319d9df44c4cca570710fcf221d4593",
                 "shasum": ""
             },
             "require": {
@@ -2265,11 +2286,12 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony HttpFoundation Component",
-            "time": "2018-10-03T08:48:18+00:00"
+            "homepage": "https://symfony.com",
+            "time": "2019-11-28T12:52:59+00:00"
         },
         {
             "name": "symfony/http-kernel",
@@ -2353,10 +2375,11 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony HttpKernel Component",
+            "homepage": "https://symfony.com",
             "time": "2018-10-03T12:03:34+00:00"
         },
         {
@@ -2400,7 +2423,7 @@
             "authors": [
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 },
                 {
                     "name": "Gert de Pagter",
@@ -2408,6 +2431,7 @@
                 }
             ],
             "description": "Symfony polyfill for ctype functions",
+            "homepage": "https://symfony.com",
             "keywords": [
                 "compatibility",
                 "ctype",
@@ -2418,16 +2442,16 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.10.0",
+            "version": "v1.13.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "c79c051f5b3a46be09205c73b80b346e4153e494"
+                "reference": "7b4aab9743c30be783b73de055d24a39cf4b954f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/c79c051f5b3a46be09205c73b80b346e4153e494",
-                "reference": "c79c051f5b3a46be09205c73b80b346e4153e494",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/7b4aab9743c30be783b73de055d24a39cf4b954f",
+                "reference": "7b4aab9743c30be783b73de055d24a39cf4b954f",
                 "shasum": ""
             },
             "require": {
@@ -2439,7 +2463,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.9-dev"
+                    "dev-master": "1.13-dev"
                 }
             },
             "autoload": {
@@ -2461,10 +2485,11 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony polyfill for the Mbstring extension",
+            "homepage": "https://symfony.com",
             "keywords": [
                 "compatibility",
                 "mbstring",
@@ -2472,20 +2497,20 @@
                 "portable",
                 "shim"
             ],
-            "time": "2018-09-21T13:07:52+00:00"
+            "time": "2019-11-27T14:18:11+00:00"
         },
         {
             "name": "symfony/polyfill-php70",
-            "version": "v1.10.0",
+            "version": "v1.13.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php70.git",
-                "reference": "6b88000cdd431cd2e940caa2cb569201f3f84224"
+                "reference": "af23c7bb26a73b850840823662dda371484926c4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php70/zipball/6b88000cdd431cd2e940caa2cb569201f3f84224",
-                "reference": "6b88000cdd431cd2e940caa2cb569201f3f84224",
+                "url": "https://api.github.com/repos/symfony/polyfill-php70/zipball/af23c7bb26a73b850840823662dda371484926c4",
+                "reference": "af23c7bb26a73b850840823662dda371484926c4",
                 "shasum": ""
             },
             "require": {
@@ -2495,7 +2520,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.9-dev"
+                    "dev-master": "1.13-dev"
                 }
             },
             "autoload": {
@@ -2520,17 +2545,18 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony polyfill backporting some PHP 7.0+ features to lower PHP versions",
+            "homepage": "https://symfony.com",
             "keywords": [
                 "compatibility",
                 "polyfill",
                 "portable",
                 "shim"
             ],
-            "time": "2018-09-21T06:26:08+00:00"
+            "time": "2019-11-27T13:56:44+00:00"
         },
         {
             "name": "symfony/process",
@@ -2574,10 +2600,11 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony Process Component",
+            "homepage": "https://symfony.com",
             "time": "2018-10-02T12:28:39+00:00"
         },
         {
@@ -2644,10 +2671,11 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony Routing Component",
+            "homepage": "https://symfony.com",
             "keywords": [
                 "router",
                 "routing",
@@ -2717,10 +2745,11 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony Translation Component",
+            "homepage": "https://symfony.com",
             "time": "2018-10-02T16:33:53+00:00"
         },
         {
@@ -2781,10 +2810,11 @@
                 },
                 {
                     "name": "Symfony Community",
-                    "Homepage": "https://symfony.com/contributors"
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony mechanism for exploring and dumping PHP variables",
+            "homepage": "https://symfony.com",
             "keywords": [
                 "debug",
                 "dump"
@@ -2835,6 +2865,7 @@
                 }
             ],
             "description": "CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very useful when you're sending emails.",
+            "homepage": "https://github.com/tijsverkoyen/CssToInlineStyles",
             "time": "2017-11-27T11:13:29+00:00"
         },
         {
@@ -2876,7 +2907,7 @@
                 {
                     "name": "Vance Lucas",
                     "email": "vance@vancelucas.com",
-                    "Homepage": "http://www.vancelucas.com"
+                    "homepage": "http://www.vancelucas.com"
                 }
             ],
             "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
@@ -2932,10 +2963,11 @@
                 {
                     "name": "Marco Pivetta",
                     "email": "ocramius@gmail.com",
-                    "Homepage": "http://ocramius.github.com/"
+                    "homepage": "http://ocramius.github.com/"
                 }
             ],
             "description": "A small, lightweight utility to instantiate objects in PHP without invoking their constructors",
+            "homepage": "https://github.com/doctrine/instantiator",
             "keywords": [
                 "constructor",
                 "instantiate"
@@ -2987,11 +3019,12 @@
             "authors": [
                 {
                     "name": "Filipe Dobreira",
-                    "Homepage": "https://github.com/filp",
+                    "homepage": "https://github.com/filp",
                     "role": "Developer"
                 }
             ],
             "description": "php error handling for cool kids",
+            "homepage": "https://filp.github.io/whoops/",
             "keywords": [
                 "error",
                 "exception",
@@ -3165,6 +3198,7 @@
                 }
             ],
             "description": "HTML and Form Builders for the Laravel Framework",
+            "homepage": "https://laravelcollective.com",
             "time": "2018-03-24T00:39:21+00:00"
         },
         {
@@ -3208,15 +3242,16 @@
                 {
                     "name": "Pádraic Brady",
                     "email": "padraic.brady@gmail.com",
-                    "Homepage": "http://blog.astrumfutura.com"
+                    "homepage": "http://blog.astrumfutura.com"
                 },
                 {
                     "name": "Dave Marshall",
                     "email": "dave.marshall@atstsolutions.co.uk",
-                    "Homepage": "http://davedevelopment.co.uk"
+                    "homepage": "http://davedevelopment.co.uk"
                 }
             ],
             "description": "Mockery is a simple yet flexible PHP mock object framework",
+            "homepage": "https://github.com/mockery/mockery",
             "keywords": [
                 "BDD",
                 "TDD",
@@ -3425,6 +3460,7 @@
                 }
             ],
             "description": "Common reflection classes used by phpdocumentor to reflect the code structure",
+            "homepage": "http://www.phpdoc.org",
             "keywords": [
                 "FQSEN",
                 "phpDocumentor",
@@ -3576,7 +3612,7 @@
                 {
                     "name": "Konstantin Kudryashov",
                     "email": "ever.zet@gmail.com",
-                    "Homepage": "http://everzet.com"
+                    "homepage": "http://everzet.com"
                 },
                 {
                     "name": "Marcello Duarte",
@@ -3584,6 +3620,7 @@
                 }
             ],
             "description": "Highly opinionated mocking framework for PHP 5.3+",
+            "homepage": "https://github.com/phpspec/prophecy",
             "keywords": [
                 "Double",
                 "Dummy",
@@ -3649,6 +3686,7 @@
                 }
             ],
             "description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.",
+            "homepage": "https://github.com/sebastianbergmann/php-code-coverage",
             "keywords": [
                 "coverage",
                 "testing",
@@ -3696,6 +3734,7 @@
                 }
             ],
             "description": "FilterIterator implementation that filters files based on a list of suffixes.",
+            "homepage": "https://github.com/sebastianbergmann/php-file-iterator/",
             "keywords": [
                 "filesystem",
                 "iterator"
@@ -3737,6 +3776,7 @@
                 }
             ],
             "description": "Simple template engine.",
+            "homepage": "https://github.com/sebastianbergmann/php-text-template/",
             "keywords": [
                 "template"
             ],
@@ -3785,6 +3825,7 @@
                 }
             ],
             "description": "Utility class for timing",
+            "homepage": "https://github.com/sebastianbergmann/php-timer/",
             "keywords": [
                 "timer"
             ],
@@ -3833,6 +3874,7 @@
                 }
             ],
             "description": "Wrapper around PHP's tokenizer extension.",
+            "homepage": "https://github.com/sebastianbergmann/php-token-stream/",
             "keywords": [
                 "tokenizer"
             ],
@@ -3914,6 +3956,7 @@
                 }
             ],
             "description": "The PHP Unit Testing framework.",
+            "homepage": "https://phpunit.de/",
             "keywords": [
                 "phpunit",
                 "testing",
@@ -3973,10 +4016,12 @@
                 }
             ],
             "description": "Mock Object library for PHPUnit",
+            "homepage": "https://github.com/sebastianbergmann/phpunit-mock-objects/",
             "keywords": [
                 "mock",
                 "xunit"
             ],
+            "abandoned": true,
             "time": "2018-08-09T05:50:03+00:00"
         },
         {
@@ -4021,6 +4066,7 @@
                 }
             ],
             "description": "Looks up which function or method a line of code belongs to",
+            "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
             "time": "2017-03-04T06:30:41+00:00"
         },
         {
@@ -4079,6 +4125,7 @@
                 }
             ],
             "description": "Provides the functionality to compare PHP values for equality",
+            "homepage": "https://github.com/sebastianbergmann/comparator",
             "keywords": [
                 "comparator",
                 "compare",
@@ -4132,6 +4179,7 @@
                 }
             ],
             "description": "Diff implementation",
+            "homepage": "https://github.com/sebastianbergmann/diff",
             "keywords": [
                 "diff"
             ],
@@ -4179,6 +4227,7 @@
                 }
             ],
             "description": "Provides functionality to handle HHVM/PHP environments",
+            "homepage": "http://www.github.com/sebastianbergmann/environment",
             "keywords": [
                 "Xdebug",
                 "environment",
@@ -4246,6 +4295,7 @@
                 }
             ],
             "description": "Provides the functionality to export PHP variables for visualization",
+            "homepage": "http://www.github.com/sebastianbergmann/exporter",
             "keywords": [
                 "export",
                 "exporter"
@@ -4297,6 +4347,7 @@
                 }
             ],
             "description": "Snapshotting of global state",
+            "homepage": "http://www.github.com/sebastianbergmann/global-state",
             "keywords": [
                 "global state"
             ],
@@ -4346,6 +4397,7 @@
                 }
             ],
             "description": "Traverses array structures and object graphs to enumerate all referenced objects",
+            "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
             "time": "2017-08-03T12:35:26+00:00"
         },
         {
@@ -4390,6 +4442,7 @@
                 }
             ],
             "description": "Allows reflection of object attributes, including inherited and non-public ones",
+            "homepage": "https://github.com/sebastianbergmann/object-reflector/",
             "time": "2017-03-29T09:07:27+00:00"
         },
         {
@@ -4442,6 +4495,7 @@
                 }
             ],
             "description": "Provides functionality to recursively process PHP variables",
+            "homepage": "http://www.github.com/sebastianbergmann/recursion-context",
             "time": "2017-03-03T06:23:57+00:00"
         },
         {
@@ -4483,6 +4537,7 @@
                 }
             ],
             "description": "Provides a list of PHP built-in functions that operate on resources",
+            "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
             "time": "2015-07-28T20:34:47+00:00"
         },
         {
@@ -4525,6 +4580,7 @@
                 }
             ],
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
+            "homepage": "https://github.com/sebastianbergmann/version",
             "time": "2016-10-03T07:35:21+00:00"
         },
         {
